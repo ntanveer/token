@@ -1,0 +1,15 @@
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\TokenApp.exe.config
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\TokenApp.exe
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\TokenApp.pdb
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\obj\Debug\TokenApp.csprojResolveAssemblyReference.cache
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\obj\Debug\TokenApp.csproj.CoreCompileInputs.cache
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\obj\Debug\TokenApp.exe
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\obj\Debug\TokenApp.pdb
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.PowerBI.Api.dll
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+c:\users\nabeeltanveer\documents\visual studio 2017\Projects\TokenApp\TokenApp\bin\Debug\Newtonsoft.Json.xml
